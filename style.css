@@ -1,0 +1,11 @@
+.kotak {
+    width: 300px;          /* Lebar kotak */
+    height: 300px;         /* Tinggi kotak */
+    background-color: #00d9ff; /* Warna background kotak */
+    display: flex;         /* Menggunakan Flexbox */
+    justify-content: center; /* Horizontal tengah */
+    align-items: center;    /* Vertikal tengah */
+    color: white;          /* Warna teks */
+    font-size: 20px;       /* Ukuran font */
+    text-align: center;    /* Teks rata tengah */
+}

@@ -1,0 +1,29 @@
+/*.kotak {
+    background-color: blue;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    padding:  10px;
+}*/
+
+.kotak {
+    margin: 30px;
+   
+}
+
+
+
+
+.kotak1 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    padding:  15px;
+    
+}
+.kotak2 {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    
+}

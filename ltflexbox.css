@@ -1,0 +1,38 @@
+.kotak {
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    margin: 30px;
+}
+
+.merah {
+background-color: brown;
+}
+.oren {
+    background-color: orange;
+}
+
+.kuning {
+    background-color: yellow;
+
+}
+
+.putih {
+    background-color: aliceblue;
+}
+
+.biru {
+    background-color: blue;
+}
+
+.birumuda {
+background-color: aqua;
+}
+
+.biruterang {
+    background-color: aquamarine;
+}
+
+.putih1 {
+    background-color: rgb(249, 249, 249);
+}
